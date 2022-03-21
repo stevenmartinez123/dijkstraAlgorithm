@@ -1,1 +1,3 @@
-# dijkstraAlgorithm
+# Dijkstra Algorithm -print shortest path from source to every vertex 
+
+To compile the Java file in the command line interface on a Tux machine, once the file is found, simply type “javac M4ProgrammingAssignment.java”. Once the byte code is generated, type the command “java M4ProgrammingAssignment”. The program will prompt the user to type in the name of a text file where two have been provided, graph.txt and inputGraph.txt. To view these files prior to running the program the user can enter “more filename.txt” which will show the source, weights, and edges of the text file. Once the file name has been inputted, the program will output the shortest path from the source to every vertex in the graph. The program will also generate a text file named outputShortestPaths.txt, a user can view the output of the text file by entering “more outputShortestPaths.txt”. 
